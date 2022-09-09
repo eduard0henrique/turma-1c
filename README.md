@@ -1,4 +1,4 @@
-# turma1c
+# turma-1c
 ## repositorio arquivos aula HTML e CBS 
 estudante do 1 ano c 
 ###Linguagem Html
